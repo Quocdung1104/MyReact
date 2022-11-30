@@ -17,5 +17,5 @@ bài tập môn React
 14. [Câu 14](https://codepen.io/dungnguyen104/pen/VwdzgbN)
 15. [Câu 15](https://codepen.io/dungnguyen104/details/jOKGzVZ)
 16. [Câu 16](https://codepen.io/dungnguyen104/pen/ExRwRLR)
-17. [Câu ](https://codepen.io/dungnguyen104/pen/gOKXPoK)
+17. [Câu 17](https://codepen.io/dungnguyen104/pen/gOKXPoK)
 ## Thực Hành
