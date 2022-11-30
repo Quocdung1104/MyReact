@@ -1,11 +1,11 @@
 # MyReact
 ## Lý thuyết
 bài tập môn React
-1. [Câu 1]()
-2. [Câu 2]()
-3. [Câu 3]()
+1. [Câu 1](https://codepen.io/dungnguyen104/pen/MWXqJXN)
+2. [Câu 2](#)
+3. [Câu 3](https://codepen.io/dungnguyen104/pen/MWXqJBN)
 4. [Câu 4]()
-5. [Câu 5]()
+5. [Câu 5](https://codepen.io/dungnguyen104/pen/dyKqNgW)
 6. [Câu 6]()
 7. [Câu 7]()
 8. [Câu 8]()
@@ -18,4 +18,10 @@ bài tập môn React
 15. [Câu 15](https://codepen.io/dungnguyen104/details/jOKGzVZ)
 16. [Câu 16](https://codepen.io/dungnguyen104/pen/ExRwRLR)
 17. [Câu 17](https://codepen.io/dungnguyen104/pen/gOKXPoK)
+18. [câu 18]()
+19. [câu19]()
+20. [câu 20]()
+21. [câu 21]()
 ## Thực Hành
+1. [Bài thực hành pros và state](https://codesandbox.io/s/baikt-props-state-1c5849?file=/src/App.js)
+2. [bài thực hành só 1]()
