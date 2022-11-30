@@ -9,7 +9,7 @@ bài tập môn React
 6. [Câu 6]()
 7. [Câu 7]()
 8. [Câu 8]()
-9. [Câu 9]()
+9. [Câu 9](https://codepen.io/dungnguyen104/pen/PoadbEz)
 10. [Câu 10](https://codepen.io/dungnguyen104/pen/NWzwxeV)
 11. [Câu 11](https://codepen.io/dungnguyen104/pen/LYrOGqz)
 12. [Câu 12](https://codepen.io/dungnguyen104/pen/QWxpJbP)
