@@ -2,13 +2,13 @@
 ## Lý thuyết
 bài tập môn React
 1. [Câu 1](https://codepen.io/dungnguyen104/pen/MWXqJXN)
-2. [Câu 2](#)
+2. [Câu 2]()#
 3. [Câu 3](https://codepen.io/dungnguyen104/pen/MWXqJBN)
-4. [Câu 4]()
+4. [Câu 4](https://codepen.io/dungnguyen104/pen/dyKqvEQ)
 5. [Câu 5](https://codepen.io/dungnguyen104/pen/dyKqNgW)
-6. [Câu 6]()
-7. [Câu 7]()
-8. [Câu 8]()
+6. [Câu 6](https://codepen.io/dungnguyen104/pen/dyKqvrQ)
+7. [Câu 7](https://codepen.io/dungnguyen104/pen/MWXqpRm)
+8. [Câu 8](https://codepen.io/dungnguyen104/pen/RwJYpvd)
 9. [Câu 9](https://codepen.io/dungnguyen104/pen/PoadbEz)
 10. [Câu 10](https://codepen.io/dungnguyen104/pen/NWzwxeV)
 11. [Câu 11](https://codepen.io/dungnguyen104/pen/LYrOGqz)
