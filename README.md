@@ -23,7 +23,7 @@ bài tập môn React
 20. [câu 20](https://codesandbox.io/s/bai-20-1wbi65)
 21. [câu 21](https://codesandbox.io/s/baikt-props-state-1c5849?file=/src/Newcomp.js)
 ## Thực Hành
-0.[bài thực hành React và compunent](https://codesandbox.io/s/bai-thuc-hanh-react-va-compunent-ygxp5r)
+0. [bài thực hành React và compunent](https://codesandbox.io/s/bai-thuc-hanh-react-va-compunent-ygxp5r)
 1. [Bài thực hành pros và state](https://codesandbox.io/s/baikt-props-state-1c5849?file=/src/App.js)
 2. [bài thực hành só 1](https://codesandbox.io/s/bth1-1msx0f)
 3. [bài thực hành só 2](https://codesandbox.io/s/bth2-ftvo2w)
