@@ -24,6 +24,6 @@ bài tập môn React
 21. [câu 21](https://codesandbox.io/s/baikt-props-state-1c5849?file=/src/Newcomp.js)
 ## Thực Hành
 1. [Bài thực hành pros và state](https://codesandbox.io/s/baikt-props-state-1c5849?file=/src/App.js)
-2. [bài thực hành só 1]()
-3. [bài thực hành só 2]()
-4. [bài thực hành só ]()
+2. [bài thực hành só 1](#)
+3. [bài thực hành só 2](#)
+4. [bài thực hành só 3](#)
